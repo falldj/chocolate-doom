@@ -190,7 +190,7 @@ static const struct
     { wp_bfg,             wp_bfg }
 };
 
-#define SLOWTURNTICS	6 
+#define SLOWTURNTICS	6 //normally 6
  
 #define NUMKEYS		256 
 #define MAX_JOY_BUTTONS 20
